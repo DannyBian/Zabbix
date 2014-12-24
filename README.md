@@ -1,4 +1,0 @@
-Zabbix
-======
-
-Zabbix code analyse
